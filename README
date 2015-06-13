@@ -1,0 +1,7 @@
+Gracias por leer mi repository.
+los scripts incluidos ayudarán a crear una bse de datos dummy con las mismas características reportadas en el artículo original
+puedes crear una base desde cero usando los códigos del script base de datos.R aunque al usar la función runif podrán variar un
+poco cada que los corras ya que crea una distribuciòn uniforme aleatoria.
+si quieres reproducirt los datos exacatamente como los reporto en el mi documento usa los archivos *.csv
+
+Gracias
